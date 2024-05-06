@@ -1,0 +1,58 @@
+
+body{
+    font-family: Cooper Black,Broadway,sans-serif;
+    font-size: 20px;
+    color: #735846;
+    text-align: justify;
+    background-image: url(hi.jpg);}
+
+ul.navbar { <!-- define la posicion del menu de navegacion-->
+             list-style-type: none;
+            padding: 0;
+            margin: 0;
+            position: absolute;
+            top: 5em;
+            left: 1em;
+            width: 11em;
+               
+        }
+ul.navbar li{
+    margin: 0.5em 0;
+    padding: 0.5em;
+    border-top: 1em solid black;
+    background: #f5e4cc;
+}
+h1 {text-align: center; margin-left: 80px;
+    margin-top: 20px;
+    font-size: 180%;
+    color: #d38451;}
+
+h2,h3 {font-family: Georgia, Times, serif;
+    font-size: 150%;
+    color: #A52A2A;
+    margin-top: 0;
+    margin-left: 60PX;}
+
+h3 {color: #88860B;}
+p {line-height: 1.5em;
+   text-indent: 15px;
+         
+                 margin: 35px;}
+
+
+
+
+                 img{border: 2px solid #d38451;
+                     margin: 10px;
+                     float: right; }
+
+
+
+                  div.cuerpo {margin: 0 280px 280px;
+                  background-color: #f5e4cc; }
+             
+
+
+                  azul {font-weight: bold;
+                  color: #6C6CCA; }
+    
